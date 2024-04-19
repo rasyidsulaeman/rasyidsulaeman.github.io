@@ -28,7 +28,7 @@ medium_username: 'medium.com/@rasyid.sulaeman14'
   
 # Build settings
 markdown: kramdown
-theme: phantom # Uncomment once published to RubyGems
+# stheme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate
 
@@ -102,7 +102,7 @@ admin_name: 'Rasyid Sulaeman'
 enable_contact: true
 
 #### Phantom Navigation menu
-enable_nav: true
+enable_nav: false
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
