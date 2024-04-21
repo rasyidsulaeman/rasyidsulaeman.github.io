@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Phantom'
-date: 2016-02-20 21:15:00
-categories: development design
-tags: Jekyll Sass Bootstrap
-featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs'
-button_icon: 'flask'
+title: 'SQL Data Job Analytics'
+date: 2024-04-19
+categories: data exploration
+tags: SQL Python 
+featured_image: '/img/posts/police_device_1.jpg'
+project_link: 'https://github.com/rasyidsulaeman/SQL_Project_Data_Job_Analysis'
+button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: "A minimalist Jekyll theme that you're looking at it right now"
+lead_text: "Data Exploration to identify high-paying and sought-after skills, optimizing job searches."
 ---

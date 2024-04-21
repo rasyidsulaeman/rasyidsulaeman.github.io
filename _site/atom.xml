@@ -4,7 +4,7 @@
  <title>Rasyid Sulaeman</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-04-19T21:13:58+07:00</updated>
+ <updated>2024-04-20T21:38:48+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rasyid Sulaeman</name>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>Phantom</title>
-   <link href="http://localhost:4000/development/design/2016/02/21/phantom-jekyll-template.html"/>
-   <updated>2016-02-21T04:15:00+07:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/21/phantom-jekyll-template</id>
+   <title>SQL Data Job Analytics</title>
+   <link href="http://localhost:4000/data/exploration/2024/04/19/phantom-jekyll-template.html"/>
+   <updated>2024-04-19T00:00:00+07:00</updated>
+   <id>http://localhost:4000/data/exploration/2024/04/19/phantom-jekyll-template</id>
    <content type="html">
 </content>
  </entry>

@@ -102,7 +102,7 @@ admin_name: 'Rasyid Sulaeman'
 enable_contact: true
 
 #### Phantom Navigation menu
-enable_nav: false
+enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
