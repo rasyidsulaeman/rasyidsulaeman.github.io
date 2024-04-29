@@ -18,7 +18,7 @@ include:
 
 title: "Rasyid Sulaeman"
 email: 'rasyid.sulaeman14@gmail.com'
-description: "I'm an aspiring data analyst and product manager from Indonesia, leveraging data to useful business insight."
+description: "I'm an aspiring data analyst and data scientist from Indonesia, leveraging data to useful business insight."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rasyidsulaeman.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'rasyidsulaeman'

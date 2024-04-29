@@ -2,20 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rasyid Sulaeman</title>
-    <description>I&apos;m an aspiring data analyst and product manager from Indonesia, leveraging data to useful business insight.</description>
+    <description>I&apos;m an aspiring data analyst and data scientist from Indonesia, leveraging data to useful business insight.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Apr 2024 21:38:48 +0700</pubDate>
-    <lastBuildDate>Sat, 20 Apr 2024 21:38:48 +0700</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2024 18:12:42 +0700</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2024 18:12:42 +0700</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Airline Customer Segmentation</title>
+        <description>
+</description>
+        <pubDate>Mon, 29 Apr 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/machine/learning/clustering/2024/04/29/airline-customer-segmentation.html</link>
+        <guid isPermaLink="true">http://localhost:4000/machine/learning/clustering/2024/04/29/airline-customer-segmentation.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Clustering</category>
+        
+        
+        <category>machine</category>
+        
+        <category>learning</category>
+        
+        <category>clustering</category>
+        
+      </item>
+    
+      <item>
+        <title>Telco Churn Prediction</title>
+        <description>
+</description>
+        <pubDate>Mon, 29 Apr 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/machine/learning/classification/prediction/2024/04/29/telco-churn-analysis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/machine/learning/classification/prediction/2024/04/29/telco-churn-analysis.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Machine-Learning</category>
+        
+        
+        <category>machine</category>
+        
+        <category>learning</category>
+        
+        <category>classification</category>
+        
+        <category>prediction</category>
+        
+      </item>
     
       <item>
         <title>SQL Data Job Analytics</title>
         <description>
 </description>
         <pubDate>Fri, 19 Apr 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/data/exploration/2024/04/19/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/data/exploration/2024/04/19/phantom-jekyll-template.html</guid>
+        <link>http://localhost:4000/data/exploration/2024/04/19/sql-data-job-analysis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/data/exploration/2024/04/19/sql-data-job-analysis.html</guid>
         
         <category>SQL</category>
         
@@ -25,27 +69,6 @@
         <category>data</category>
         
         <category>exploration</category>
-        
-      </item>
-    
-      <item>
-        <title>Rescue Themes</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 22:56:00 +0700</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/rescue-themes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/rescue-themes.html</guid>
-        
-        <category>WordPress</category>
-        
-        <category>PHP</category>
-        
-        <category>Sass</category>
-        
-        
-        <category>development</category>
-        
-        <category>design</category>
         
       </item>
     
@@ -64,27 +87,6 @@
         <category>API</category>
         
         <category>Sass</category>
-        
-        
-        <category>development</category>
-        
-      </item>
-    
-      <item>
-        <title>Bloc Jams Angular</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 21:15:00 +0700</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>Sass</category>
-        
-        <category>Grunt</category>
         
         
         <category>development</category>
