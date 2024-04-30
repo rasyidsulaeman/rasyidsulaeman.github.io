@@ -3,7 +3,7 @@ layout: inner
 position: right
 title: 'Telco Churn Prediction'
 date: 2024-04-29
-categories: machine learning classification prediction
+categories: machine-learning classification
 tags: Python Machine-Learning 
 featured_image: '/img/posts/machine-learning.jpg'
 project_link: 'https://github.com/rasyidsulaeman/Exploratory-Data-Analysis/'

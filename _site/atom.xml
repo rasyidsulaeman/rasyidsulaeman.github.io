@@ -4,7 +4,7 @@
  <title>Rasyid Sulaeman</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-04-29T18:12:42+07:00</updated>
+ <updated>2024-04-30T07:50:34+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rasyid Sulaeman</name>
@@ -14,27 +14,27 @@
  
  <entry>
    <title>Airline Customer Segmentation</title>
-   <link href="http://localhost:4000/machine/learning/clustering/2024/04/29/airline-customer-segmentation.html"/>
+   <link href="http://localhost:4000/machine-learning/clustering/2024/04/29/airline-customer-segmentation.html"/>
    <updated>2024-04-29T00:00:00+07:00</updated>
-   <id>http://localhost:4000/machine/learning/clustering/2024/04/29/airline-customer-segmentation</id>
+   <id>http://localhost:4000/machine-learning/clustering/2024/04/29/airline-customer-segmentation</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Telco Churn Prediction</title>
-   <link href="http://localhost:4000/machine/learning/classification/prediction/2024/04/29/telco-churn-analysis.html"/>
+   <link href="http://localhost:4000/machine-learning/classification/2024/04/29/telco-churn-analysis.html"/>
    <updated>2024-04-29T00:00:00+07:00</updated>
-   <id>http://localhost:4000/machine/learning/classification/prediction/2024/04/29/telco-churn-analysis</id>
+   <id>http://localhost:4000/machine-learning/classification/2024/04/29/telco-churn-analysis</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>SQL Data Job Analytics</title>
-   <link href="http://localhost:4000/data/exploration/2024/04/19/sql-data-job-analysis.html"/>
+   <link href="http://localhost:4000/sql-data-exploration/2024/04/19/sql-data-job-analysis.html"/>
    <updated>2024-04-19T00:00:00+07:00</updated>
-   <id>http://localhost:4000/data/exploration/2024/04/19/sql-data-job-analysis</id>
+   <id>http://localhost:4000/sql-data-exploration/2024/04/19/sql-data-job-analysis</id>
    <content type="html">
 </content>
  </entry>
