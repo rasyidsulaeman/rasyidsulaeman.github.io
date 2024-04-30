@@ -5,9 +5,28 @@
     <description>I&apos;m an aspiring data analyst and data scientist from Indonesia, leveraging data to useful business insight.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Apr 2024 07:50:34 +0700</pubDate>
-    <lastBuildDate>Tue, 30 Apr 2024 07:50:34 +0700</lastBuildDate>
+    <pubDate>Tue, 30 Apr 2024 22:15:14 +0700</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2024 22:15:14 +0700</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Bike Stores Dashboard</title>
+        <description>
+</description>
+        <pubDate>Tue, 30 Apr 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/data-visualization/2024/04/30/bike-stores-dashboard.html</link>
+        <guid isPermaLink="true">http://localhost:4000/data-visualization/2024/04/30/bike-stores-dashboard.html</guid>
+        
+        <category>SQL</category>
+        
+        <category>Excel</category>
+        
+        <category>Tableau</category>
+        
+        
+        <category>data-visualization</category>
+        
+      </item>
     
       <item>
         <title>Airline Customer Segmentation</title>
@@ -61,27 +80,6 @@
         
         
         <category>sql-data-exploration</category>
-        
-      </item>
-    
-      <item>
-        <title>Weathercast</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 22:56:00 +0700</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/weathercast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/weathercast.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>API</category>
-        
-        <category>Sass</category>
-        
-        
-        <category>development</category>
         
       </item>
     

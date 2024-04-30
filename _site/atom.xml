@@ -4,13 +4,22 @@
  <title>Rasyid Sulaeman</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-04-30T07:50:34+07:00</updated>
+ <updated>2024-04-30T22:15:14+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rasyid Sulaeman</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Bike Stores Dashboard</title>
+   <link href="http://localhost:4000/data-visualization/2024/04/30/bike-stores-dashboard.html"/>
+   <updated>2024-04-30T00:00:00+07:00</updated>
+   <id>http://localhost:4000/data-visualization/2024/04/30/bike-stores-dashboard</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Airline Customer Segmentation</title>
@@ -35,15 +44,6 @@
    <link href="http://localhost:4000/sql-data-exploration/2024/04/19/sql-data-job-analysis.html"/>
    <updated>2024-04-19T00:00:00+07:00</updated>
    <id>http://localhost:4000/sql-data-exploration/2024/04/19/sql-data-job-analysis</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Weathercast</title>
-   <link href="http://localhost:4000/development/2016/02/20/weathercast.html"/>
-   <updated>2016-02-20T22:56:00+07:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/weathercast</id>
    <content type="html">
 </content>
  </entry>
