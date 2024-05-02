@@ -3,6 +3,7 @@ layout: inner
 title: About
 permalink: /about/
 ---
+# About Me
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rasyid+Sulaeman!;" />
@@ -18,9 +19,12 @@ Welcome to my Portfolio! Hi I’m **Rasyid** 👋 , I graduated from University 
 
 To me, working with data and analytical thinking have strengthened my passion in **Data Analyst** and **Data Scientist**. My ultimate goal is to be able to learn about different businesses and help them make better data-driven decisions.
 
+--- 
+
+### Resume 
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<h4>
-<a href="#" class="fa fa-download" ></a> <b> Download my resume <a href="resume/CV_Rasyid_Sulaeman.pdf/">here</a> </b>
-</h4>
+<a href="#" class="fa fa-download" ></a> Download my resume <a href="https://drive.google.com/file/d/1C8RUFz2AjCadLRSylmOYk7JnTtSvpsig/view?usp=sharing">here</a> 
 
+--- 
