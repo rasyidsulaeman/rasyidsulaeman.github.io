@@ -10,14 +10,14 @@ permalink: /about/
 </h1>
 
 <center>
-<h4>An aspiring Data Analyst/ Data Scientist from Indonesia 🇮🇩 </h4>
+<h4>An aspiring Data Analyst and Product Management from Indonesia 🇮🇩 </h4>
 </center>
 
 --- 
 
-Welcome to my Portfolio! Hi I’m **Rasyid** 👋 , I graduated from University of Indonesia with major in Physics. I previously worked in CoLearn an EdTech company for 2 years as STEM Expert. During my work, I was looking for something that have a meaningful impact and my interest lied more on the application side than just mere theory. That's why I transitioned from STEM background to Data Analyst/ Data Scientist.
+Welcome to my Portfolio! Hi I’m **Rasyid** 👋 , I graduated from University of Indonesia with major in Physics. I previously worked in CoLearn an EdTech company for 2 years as STEM Expert. During my work, I was looking for something that have a meaningful impact and my interest lied more on the application side than just mere theory. That's why I transitioned from STEM background to Data Analyst and Product Management.
 
-To me, working with data and analytical thinking have strengthened my passion in **Data Analyst** and **Data Scientist**. My ultimate goal is to be able to learn about different businesses and help them make better data-driven decisions.
+To me, working with data and analytical thinking have strengthened my passion in **Data Analyst** and **Product Management**. My ultimate goal is to be able to learn about different businesses and help them make better data-driven decisions.
 
 --- 
 

@@ -4,7 +4,7 @@
  <title>Rasyid Sulaeman</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-05-02T11:07:24+07:00</updated>
+ <updated>2024-05-02T11:57:21+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rasyid Sulaeman</name>
@@ -44,6 +44,15 @@
    <link href="http://localhost:4000/sql-data-exploration/2024/04/19/sql-data-job-analysis.html"/>
    <updated>2024-04-19T00:00:00+07:00</updated>
    <id>http://localhost:4000/sql-data-exploration/2024/04/19/sql-data-job-analysis</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>GoKampus Recommendation System</title>
+   <link href="http://localhost:4000/product-management/2023/12/10/bike-stores-dashboard-copy.html"/>
+   <updated>2023-12-10T00:00:00+07:00</updated>
+   <id>http://localhost:4000/product-management/2023/12/10/bike-stores-dashboard copy</id>
    <content type="html">
 </content>
  </entry>
