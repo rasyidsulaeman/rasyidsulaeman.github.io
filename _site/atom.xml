@@ -4,13 +4,22 @@
  <title>Rasyid Sulaeman</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-05-02T11:57:21+07:00</updated>
+ <updated>2024-05-09T13:39:50+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rasyid Sulaeman</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Boston House Price Prediction</title>
+   <link href="http://localhost:4000/machine-learning/regression/2024/05/09/boston-prediction.html"/>
+   <updated>2024-05-09T00:00:00+07:00</updated>
+   <id>http://localhost:4000/machine-learning/regression/2024/05/09/boston-prediction</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Bike Stores Dashboard</title>
