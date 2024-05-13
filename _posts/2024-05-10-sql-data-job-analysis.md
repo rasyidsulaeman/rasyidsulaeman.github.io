@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'SQL Data Job Analytics'
 date: 2024-05-10
 categories: sql-data-exploration
