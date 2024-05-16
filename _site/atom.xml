@@ -4,7 +4,7 @@
  <title>Rasyid Sulaeman</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-05-09T13:39:50+07:00</updated>
+ <updated>2024-05-16T20:40:24+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rasyid Sulaeman</name>
@@ -13,55 +13,55 @@
 
  
  <entry>
-   <title>Boston House Price Prediction</title>
-   <link href="http://localhost:4000/machine-learning/regression/2024/05/09/boston-prediction.html"/>
-   <updated>2024-05-09T00:00:00+07:00</updated>
-   <id>http://localhost:4000/machine-learning/regression/2024/05/09/boston-prediction</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Bike Stores Dashboard</title>
-   <link href="http://localhost:4000/data-visualization/2024/04/30/bike-stores-dashboard.html"/>
-   <updated>2024-04-30T00:00:00+07:00</updated>
-   <id>http://localhost:4000/data-visualization/2024/04/30/bike-stores-dashboard</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Airline Customer Segmentation</title>
-   <link href="http://localhost:4000/machine-learning/clustering/2024/04/29/airline-customer-segmentation.html"/>
-   <updated>2024-04-29T00:00:00+07:00</updated>
-   <id>http://localhost:4000/machine-learning/clustering/2024/04/29/airline-customer-segmentation</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
    <title>Telco Churn Prediction</title>
-   <link href="http://localhost:4000/machine-learning/classification/2024/04/29/telco-churn-analysis.html"/>
-   <updated>2024-04-29T00:00:00+07:00</updated>
-   <id>http://localhost:4000/machine-learning/classification/2024/04/29/telco-churn-analysis</id>
+   <link href="http://localhost:4000/machine-learning/classification/2024/05/12/telco-churn-analysis.html"/>
+   <updated>2024-05-12T00:00:00+07:00</updated>
+   <id>http://localhost:4000/machine-learning/classification/2024/05/12/telco-churn-analysis</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>SQL Data Job Analytics</title>
-   <link href="http://localhost:4000/sql-data-exploration/2024/04/19/sql-data-job-analysis.html"/>
-   <updated>2024-04-19T00:00:00+07:00</updated>
-   <id>http://localhost:4000/sql-data-exploration/2024/04/19/sql-data-job-analysis</id>
+   <link href="http://localhost:4000/sql-data-exploration/2024/05/02/sql-data-job-analysis.html"/>
+   <updated>2024-05-02T00:00:00+07:00</updated>
+   <id>http://localhost:4000/sql-data-exploration/2024/05/02/sql-data-job-analysis</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Boston House Price Prediction</title>
+   <link href="http://localhost:4000/machine-learning/regression/2024/04/25/boston-prediction.html"/>
+   <updated>2024-04-25T00:00:00+07:00</updated>
+   <id>http://localhost:4000/machine-learning/regression/2024/04/25/boston-prediction</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bike Stores Dashboard</title>
+   <link href="http://localhost:4000/data-visualization/2024/04/10/bike-stores-dashboard.html"/>
+   <updated>2024-04-10T00:00:00+07:00</updated>
+   <id>http://localhost:4000/data-visualization/2024/04/10/bike-stores-dashboard</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Airline Customer Segmentation</title>
+   <link href="http://localhost:4000/machine-learning/clustering/2024/03/29/airline-customer-segmentation.html"/>
+   <updated>2024-03-29T00:00:00+07:00</updated>
+   <id>http://localhost:4000/machine-learning/clustering/2024/03/29/airline-customer-segmentation</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>GoKampus Recommendation System</title>
-   <link href="http://localhost:4000/product-management/2023/12/10/bike-stores-dashboard-copy.html"/>
+   <link href="http://localhost:4000/product-management/2023/12/10/gokampus-recommendation-system.html"/>
    <updated>2023-12-10T00:00:00+07:00</updated>
-   <id>http://localhost:4000/product-management/2023/12/10/bike-stores-dashboard copy</id>
+   <id>http://localhost:4000/product-management/2023/12/10/gokampus-recommendation-system</id>
    <content type="html">
 </content>
  </entry>

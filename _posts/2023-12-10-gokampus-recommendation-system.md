@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'GoKampus Recommendation System'
 date: 2023-12-10
 categories: product-management 

@@ -5,17 +5,59 @@
     <description>I&apos;m an aspiring data analyst and product management from Indonesia, leveraging data to useful business insight.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 May 2024 13:39:50 +0700</pubDate>
-    <lastBuildDate>Thu, 09 May 2024 13:39:50 +0700</lastBuildDate>
+    <pubDate>Thu, 16 May 2024 20:40:24 +0700</pubDate>
+    <lastBuildDate>Thu, 16 May 2024 20:40:24 +0700</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Telco Churn Prediction</title>
+        <description>
+</description>
+        <pubDate>Sun, 12 May 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/machine-learning/classification/2024/05/12/telco-churn-analysis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/machine-learning/classification/2024/05/12/telco-churn-analysis.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Machine-Learning</category>
+        
+        <category>Web-Application</category>
+        
+        <category>CatBoost</category>
+        
+        <category>Streamlit</category>
+        
+        
+        <category>machine-learning</category>
+        
+        <category>classification</category>
+        
+      </item>
+    
+      <item>
+        <title>SQL Data Job Analytics</title>
+        <description>
+</description>
+        <pubDate>Thu, 02 May 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/sql-data-exploration/2024/05/02/sql-data-job-analysis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sql-data-exploration/2024/05/02/sql-data-job-analysis.html</guid>
+        
+        <category>SQL</category>
+        
+        <category>Python</category>
+        
+        
+        <category>sql-data-exploration</category>
+        
+      </item>
     
       <item>
         <title>Boston House Price Prediction</title>
         <description>
 </description>
-        <pubDate>Thu, 09 May 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/machine-learning/regression/2024/05/09/boston-prediction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/machine-learning/regression/2024/05/09/boston-prediction.html</guid>
+        <pubDate>Thu, 25 Apr 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/machine-learning/regression/2024/04/25/boston-prediction.html</link>
+        <guid isPermaLink="true">http://localhost:4000/machine-learning/regression/2024/04/25/boston-prediction.html</guid>
         
         <category>Python</category>
         
@@ -24,6 +66,8 @@
         <category>Streamlit</category>
         
         <category>Web-Application</category>
+        
+        <category>Random-Forest-Regressor</category>
         
         
         <category>machine-learning</category>
@@ -36,9 +80,9 @@
         <title>Bike Stores Dashboard</title>
         <description>
 </description>
-        <pubDate>Tue, 30 Apr 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/data-visualization/2024/04/30/bike-stores-dashboard.html</link>
-        <guid isPermaLink="true">http://localhost:4000/data-visualization/2024/04/30/bike-stores-dashboard.html</guid>
+        <pubDate>Wed, 10 Apr 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/data-visualization/2024/04/10/bike-stores-dashboard.html</link>
+        <guid isPermaLink="true">http://localhost:4000/data-visualization/2024/04/10/bike-stores-dashboard.html</guid>
         
         <category>SQL</category>
         
@@ -55,9 +99,9 @@
         <title>Airline Customer Segmentation</title>
         <description>
 </description>
-        <pubDate>Mon, 29 Apr 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/machine-learning/clustering/2024/04/29/airline-customer-segmentation.html</link>
-        <guid isPermaLink="true">http://localhost:4000/machine-learning/clustering/2024/04/29/airline-customer-segmentation.html</guid>
+        <pubDate>Fri, 29 Mar 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/machine-learning/clustering/2024/03/29/airline-customer-segmentation.html</link>
+        <guid isPermaLink="true">http://localhost:4000/machine-learning/clustering/2024/03/29/airline-customer-segmentation.html</guid>
         
         <category>Python</category>
         
@@ -71,48 +115,12 @@
       </item>
     
       <item>
-        <title>Telco Churn Prediction</title>
-        <description>
-</description>
-        <pubDate>Mon, 29 Apr 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/machine-learning/classification/2024/04/29/telco-churn-analysis.html</link>
-        <guid isPermaLink="true">http://localhost:4000/machine-learning/classification/2024/04/29/telco-churn-analysis.html</guid>
-        
-        <category>Python</category>
-        
-        <category>Machine-Learning</category>
-        
-        
-        <category>machine-learning</category>
-        
-        <category>classification</category>
-        
-      </item>
-    
-      <item>
-        <title>SQL Data Job Analytics</title>
-        <description>
-</description>
-        <pubDate>Fri, 19 Apr 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/sql-data-exploration/2024/04/19/sql-data-job-analysis.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sql-data-exploration/2024/04/19/sql-data-job-analysis.html</guid>
-        
-        <category>SQL</category>
-        
-        <category>Python</category>
-        
-        
-        <category>sql-data-exploration</category>
-        
-      </item>
-    
-      <item>
         <title>GoKampus Recommendation System</title>
         <description>
 </description>
         <pubDate>Sun, 10 Dec 2023 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/product-management/2023/12/10/bike-stores-dashboard-copy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/product-management/2023/12/10/bike-stores-dashboard-copy.html</guid>
+        <link>http://localhost:4000/product-management/2023/12/10/gokampus-recommendation-system.html</link>
+        <guid isPermaLink="true">http://localhost:4000/product-management/2023/12/10/gokampus-recommendation-system.html</guid>
         
         <category>Product-Management</category>
         
