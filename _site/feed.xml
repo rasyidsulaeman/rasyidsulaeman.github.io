@@ -5,9 +5,28 @@
     <description>I&apos;m an aspiring data analyst and product management from Indonesia, leveraging data to useful business insight.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 May 2024 20:40:24 +0700</pubDate>
-    <lastBuildDate>Thu, 16 May 2024 20:40:24 +0700</lastBuildDate>
+    <pubDate>Sun, 18 Aug 2024 18:25:46 +0700</pubDate>
+    <lastBuildDate>Sun, 18 Aug 2024 18:25:46 +0700</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Udemy Recommendation System</title>
+        <description>
+</description>
+        <pubDate>Sat, 29 Jun 2024 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/recommendation-system/2024/06/29/udemy-recommendation-system.html</link>
+        <guid isPermaLink="true">http://localhost:4000/recommendation-system/2024/06/29/udemy-recommendation-system.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Recommendation</category>
+        
+        <category>Machine-Learning</category>
+        
+        
+        <category>recommendation-system</category>
+        
+      </item>
     
       <item>
         <title>Telco Churn Prediction</title>
@@ -92,25 +111,6 @@
         
         
         <category>data-visualization</category>
-        
-      </item>
-    
-      <item>
-        <title>Airline Customer Segmentation</title>
-        <description>
-</description>
-        <pubDate>Fri, 29 Mar 2024 00:00:00 +0700</pubDate>
-        <link>http://localhost:4000/machine-learning/clustering/2024/03/29/airline-customer-segmentation.html</link>
-        <guid isPermaLink="true">http://localhost:4000/machine-learning/clustering/2024/03/29/airline-customer-segmentation.html</guid>
-        
-        <category>Python</category>
-        
-        <category>Clustering</category>
-        
-        
-        <category>machine-learning</category>
-        
-        <category>clustering</category>
         
       </item>
     

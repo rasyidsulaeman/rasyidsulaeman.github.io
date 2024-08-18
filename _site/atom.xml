@@ -4,13 +4,22 @@
  <title>Rasyid Sulaeman</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-05-16T20:40:24+07:00</updated>
+ <updated>2024-08-18T18:25:46+07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rasyid Sulaeman</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Udemy Recommendation System</title>
+   <link href="http://localhost:4000/recommendation-system/2024/06/29/udemy-recommendation-system.html"/>
+   <updated>2024-06-29T00:00:00+07:00</updated>
+   <id>http://localhost:4000/recommendation-system/2024/06/29/udemy-recommendation-system</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Telco Churn Prediction</title>
@@ -44,15 +53,6 @@
    <link href="http://localhost:4000/data-visualization/2024/04/10/bike-stores-dashboard.html"/>
    <updated>2024-04-10T00:00:00+07:00</updated>
    <id>http://localhost:4000/data-visualization/2024/04/10/bike-stores-dashboard</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Airline Customer Segmentation</title>
-   <link href="http://localhost:4000/machine-learning/clustering/2024/03/29/airline-customer-segmentation.html"/>
-   <updated>2024-03-29T00:00:00+07:00</updated>
-   <id>http://localhost:4000/machine-learning/clustering/2024/03/29/airline-customer-segmentation</id>
    <content type="html">
 </content>
  </entry>
